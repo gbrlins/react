@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Dumb Calculator",
-    "slug": "idiotCalculator",
+    "name": "Dumb calculator",
+    "slug": "calculadoraburrra",
     "privacy": "public",
     "sdkVersion": "32.0.0",
     "platforms": [
@@ -12,7 +12,7 @@
     "orientation": "portrait",
     "icon": "./assets/images/Calculator-icon.png",
     "splash": {
-      "image": "./assets/images/splash.png",
+      "image": "./assets/images/calculater.gif",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
