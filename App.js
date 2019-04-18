@@ -10,7 +10,7 @@ export default class App extends Component {
       resultText: "",
       calculationText: ""
     }
-    this.operations = ['DEL', '+', '-', '*', '/']
+    this.operations = ['DEL', '-', '+', '*', '/']
   }
 
   calculateResult(){
