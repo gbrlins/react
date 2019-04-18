@@ -25,7 +25,7 @@
     "ios": {
       "supportsTablet": true
     },
-    "description": "",
+    "description": "Uma calculadora que funciona... mais ou menos",
     "githubUrl": "https://github.com/gbrlins/react"
   }
 }
