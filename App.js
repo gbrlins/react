@@ -5,8 +5,9 @@ import AppNavigator from './navigation/AppNavigator';
 
 export default class App extends Component {
   constructor(){
+    /*Estados */
     super()
-    this.state = {
+    this.state = { 
       resultText: "",
       calculationText: ""
     }
